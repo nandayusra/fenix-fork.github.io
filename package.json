@@ -1,7 +1,9 @@
 {
-  "name": "@pancakeswap/interface",
-  "description": "Pancakeswap Interface",
-  "homepage": ".",
+  ...
+"name": "fenix-fork.github.io",
+"version": "0.1.0",
+"homepage": ".",
+...
   "private": true,
   "dependencies": {
     "@crowdin/crowdin-api-client": "^1.8.16",
